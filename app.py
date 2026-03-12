@@ -24,6 +24,7 @@ st.title("True Value Scoring")
 st.markdown("""
     <div class="insight-box">
         Total points don't always tell the whole story. By breaking down scoring by <strong>Game Margin</strong>, this dashboard reveals exactly how many points were scored in crucial, close-game situations versus low-pressure garbage time.
+        <em>Click on any player's name on the chart to watch the YouTube highlight tape of their performance.</em>
     </div>
 """, unsafe_allow_html=True)
 
