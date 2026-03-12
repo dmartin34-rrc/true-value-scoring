@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # App Config & Styling
-st.set_page_config(page_title="The Stat-Pad Index", layout="wide")
+st.set_page_config(page_title="True Value Scoring Index", layout="wide")
 
 st.markdown("""
     <style>
