@@ -18,7 +18,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("True Value Scoring")
+st.title("True Value Scoring Index")
 
 # Key Insight Narrative
 st.markdown("""
